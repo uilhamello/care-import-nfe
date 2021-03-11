@@ -1,0 +1,28 @@
+        body {
+            padding: 0%;
+            margin: 0%;
+        }
+
+        .header {
+            height: 20%;
+            border: 1px solid #efefef;
+            text-align: center;
+        }
+
+        .header-title {
+            font-weight: bold;
+            margin-top: 3%;
+        }
+
+        .content {
+            text-align: center;
+
+        }
+
+        .list{
+            border: 3px solid #efefef;
+            overflow: scroll;
+            height: 50%;
+            text-align: center;
+            display: inline-block;
+        }

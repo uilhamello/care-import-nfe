@@ -1,0 +1,19 @@
+{
+  "name": "care/test",
+  "description": "NFe XML Reader",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Uilha Mello",
+      "email": "williammello86@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "xcore"
+    }
+  }
+}
